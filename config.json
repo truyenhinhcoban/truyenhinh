@@ -1,0 +1,28 @@
+﻿{
+  "version": 1,
+  "playlist": "https://pub-f735e19a56204fe4a2ae8d11856cb801.r2.dev/Laptinhtv/Anh/m3u.txt",
+  "football_playlist": "https://pub-f735e19a56204fe4a2ae8d11856cb801.r2.dev/Laptinhtv/Anh/ttthethao.m3u",
+  "notice": {
+    "enabled": true,
+    "title": "Thông báo từ LaptinhTV",
+    "message": " LaptinhTV CHÚC CÁC BẠN XEM PHIM VUI VẺ, lưu kênh yêu thích ra màn hình android box, giọng nói, lịch phát sóng.., kênh mới sẽ được update khi có nguồn"
+  },
+
+  "update": {
+    "latest_version": 9,
+    "required": false,
+    "title": "THÔNG BÁO LapTinhTV có phiên bản mới cập nhật",
+    "message": "Phiên bản 1.8 đã được phát hành. Bổ sung 1 số kênh truyền hình, giọng nói, kênh yêu thích, lưu vị trí mục phim sự kiện, Rạp phim",
+    "download_url": "https://pub-f735e19a56204fe4a2ae8d11856cb801.r2.dev/Laptinhtv/andoird%20Lap/app-debug%20-%20Copy.apk"
+  },
+
+  "donate": {
+    "enabled": true,
+    "title": "LapTinhTv",
+    "qr_image": "",
+    "message": "Cảm ơn bạn đã ủng hộ LapTinhTv ❤️"
+  }
+}
+
+
+
